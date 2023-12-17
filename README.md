@@ -1,4 +1,4 @@
-# todoapp
+# To Do App
 
 A new Flutter project built using GetX State Management, sqflite Database, Support Dark and light Mode.
 
